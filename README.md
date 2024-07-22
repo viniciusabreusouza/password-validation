@@ -48,7 +48,7 @@ This challenge is available at [Back-End Brasil](https://github.com/backend-br/d
 - Verify if the password contains at least one numeric digit.
 - Verify if the password contains at least one special character (e.g., !@#$%).
 
-## Getting Started 🚀
+## How to run 
 To run this project locally, follow these steps:
 
 1. Ensure you have **Node.js v18 or greater** installed.
