@@ -70,7 +70,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-The API should be accessible at `http://localhost:3001/`.
+The API should be accessible at `http://localhost:3001/validate-password`.
 
 ## Technologies
 
